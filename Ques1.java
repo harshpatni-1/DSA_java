@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class isPrime {
+public class Ques1 {
 
 public static void main(String[]args){
 
@@ -8,7 +8,7 @@ Scanner scanner = new Scanner(System.in);
 System.out.print("Enter a number:");
 int number = scanner.nextInt();
 
-if (isPrime(number)){
+if (Ques1(number)){
     System.out.println("Prime");
 
      } else{
@@ -16,7 +16,7 @@ if (isPrime(number)){
           }
            scanner.close();
            }
-           public static boolean isprime(int number){
+           public static boolean Ques1(int number){
                if (number <= 1){
                        return false;
                            }
