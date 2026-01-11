@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ques3{
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("input the year");
+        System.out.println("input the year"); // KKJ
         int year = scanner.nextInt();
 
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
