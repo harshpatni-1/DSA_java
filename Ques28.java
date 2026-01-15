@@ -7,7 +7,7 @@ public class Ques28 {
         System.out.println("Enter a number");
         int number = scanner.nextInt();
         
-        
+        scan
 
     }
 }
