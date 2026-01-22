@@ -2,6 +2,19 @@ import java.util.*;
 
 public class DFSExample {
     // Graph represented as adjacency list
+
+
+
+
+
+
+
+
+
+
+
+
+    
     // ArrayList of ArrayLists - each index is a node, 
     // and its ArrayList contains its neighbors
     private ArrayList<ArrayList<Integer>> graph;
